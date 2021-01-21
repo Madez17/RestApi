@@ -1,6 +1,8 @@
 # RestApi
 ---
 
+![Imgur](https://i.imgur.com/DW4Yg6D.png)
+
 - Built with Node.js (Express-framework) and Mysql (workbench).
 
 - CRUD
